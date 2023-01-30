@@ -20,5 +20,10 @@ mumbai team  is my favorite team
 2. Jasprit Bumrah.
 3. Suryakumar Yadav.
 
+ team that i think good to watch
+ * Chennai Super. Kings.
+ * Delhi captials.
+ * Rajasthan. Royals.
+
 
 
