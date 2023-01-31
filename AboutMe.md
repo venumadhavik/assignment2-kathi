@@ -18,4 +18,6 @@ Lets go to the image
 ------
 # Pithy Quotes
 >"life is what happens when you're busy making other plans." - *** John Lennon ***
+
+
 >"If life were predictable it would cease to be life, and be without flavor." - *** Eleanor Roosevelt ***
