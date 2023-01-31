@@ -16,3 +16,6 @@ Lets go to the image
 |Germany|Historical Attraction |  48days   |
 
 ------
+# Pithy Quotes
+>"life is what happens when you're busy making other plans." - *** John Lennon ***
+>"If life were predictable it would cease to be life, and be without flavor." - *** Eleanor Roosevelt ***
