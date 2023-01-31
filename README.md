@@ -25,5 +25,21 @@ mumbai team  is my favorite team
  * Delhi captials.
  * Rajasthan. Royals.
 
+----
+## lets Create Tables
+|country|  Reason for vist     |No. of days|
+|-------|--------------------- |-----------|
+| India |  Adventure           |  50days   |
+|  US   |Iconiclandmarks       |  25days   |
+|  UK   |Great Views           |  36days   |
+|Germany|Historical Attraction |  48days   |
+
+------
+# Pithy Quotes
+>"life is what happens when you're busy making other plans." - **John Lennon**
+
+
+>"If life were predictable it would cease to be life, and be without flavor." - **Eleanor Roosevelt**
+
 
 
